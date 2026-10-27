@@ -1,12 +1,14 @@
 // Update this list to match the files in images/
 const IMAGES = [
-  'WC-Art-Page-00.jpg',
-  'WC-Art-Page-01.jpg',
-  'WC-Art-Page-02.jpg',
-  'WC-Art-Page-03.jpg',
-  'WC-Art-Page-04.jpg',
-  'WC-Art-Page-05.jpg',
-  'WC-Art-Page-06.jpg',
+  '00-IMG_7049.jpeg',
+  '01-IMG_3524.jpeg',
+  '02-IMG_4958.jpeg',
+  '03-IMG_5269.jpeg',
+  '04-IMG_5271.jpeg',
+  '05-IMG_5549.jpeg',
+  '06-IMG_5574.jpeg',
+  '07-IMG_5584.jpeg',
+  '08-IMG_7524.jpeg',
 ];
 
 const container = document.getElementById('scroll-container');
@@ -95,7 +97,7 @@ window.addEventListener('resize', () => {
 
 // Constant, slow autoplay. Pauses while the visitor is actively
 // scrolling/touching/dragging and resumes a moment after they stop.
-const AUTO_SCROLL_SPEED = 30; // pixels per second
+const AUTO_SCROLL_SPEED = 30 * 4; // pixels per second
 const RESUME_DELAY = 1500; // ms of inactivity before autoplay resumes
 
 let autoScrollEnabled = true;
