@@ -1,6 +1,11 @@
-# W-C-Art-Scroller
+# Vote-Scroller
 
 ```
+# --
+2026-10-27 07:55:04
+
+based on https://github.com/jht9629-nyu/W-C-Art-Scroller.git
+
 # --
 2026-07-16 14:50:02
 
