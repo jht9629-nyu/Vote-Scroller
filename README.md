@@ -1,5 +1,9 @@
 # Vote-Scroller
 
+- [vote.html](vote.html)
+
+- [vote.nyc](https://vote.nyc/)
+
 ```
 # --
 2026-10-27 07:55:04
